@@ -63,7 +63,7 @@ tweetDivided.appendChild(script);
 
 const answers = [
   '{userName}のいいところは声です。{userName}の特徴的な声は皆を惹きつけ、お頃に残ります。',
-  '{userName}のいいところはまなざしです。{userName}に見つめられた人は、きになって仕方がなでしょう',
+  '{userName}のいいところはまなざしです。{userName}に見つめられた人は、きになって仕方がないでしょう',
   '{userName}のいいところは情熱です。{userName}の情熱に周りの人は感化されます。',
   '{userName}のいいところは厳しさです。{userName}の厳しさが物事をいつも成功に導きます。',
   '{userName}のいいところは知識です。博識な{userName}を多くの人が頼りにしてます',
